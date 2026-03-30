@@ -1,0 +1,6 @@
+﻿id,answer
+CORP-TAX-001,"Das Einkommen, das der unbeschränkt Steuerpflichtige innerhalb eines Kalenderjahres bezogen hat (§ 7 Abs. 1 KStG)."
+CORP-TAX-002,Die nicht verrechneten Zinsen stellen eine verdeckte Ausschüttung dar (§ 8 Abs. 2 KStG) – das Einkommen wird um die fremdüblichen Zinsen erhöht. Grundlage der Einkommensermittlung ist § 7 Abs. 2/3 KStG. § 12 Abs. 1 Z 2 KStG kann zusätzlich greifen bei unangemessen hohen Gesellschaftervorteilen.
+CORP-TAX-003,"Steuerpflichtige, die aufgrund ihrer Rechtsform nach unternehmensrechtlichen Vorschriften zur Rechnungslegung verpflichtet sind, rechnungslegungspflichtige Erwerbs- und Wirtschaftsgenossenschaften sowie vergleichbare ausländische Körperschaften (§ 7 Abs. 3 KStG)."
+CORP-TAX-004,(a) Tochter: Die Ausschüttung ist Einkommensverwendung und beeinflusst das steuerpflichtige Einkommen der Tochter nicht (§ 8 Abs. 2 KStG). (b) Mutter: Die Dividende ist als Beteiligungsertrag steuerfrei – ohne Mindestquote oder Haltefrist (§ 10 Abs. 1 Z 1 KStG).
+CORP-TAX-005,"Im Ergebnis unterscheiden sie sich nicht. Beide sind Einkommensverwendung nach § 8 Abs. 2 KStG. Bei verdeckten Ausschüttungen werden die nicht fremdüblichen Aufwendungen dem Einkommen hinzugerechnet, da keine betriebliche Veranlassung vorliegt."
